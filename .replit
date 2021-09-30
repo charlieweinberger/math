@@ -1,0 +1,2 @@
+language = "bash"
+run = "python expected_value_and_variance.py"
